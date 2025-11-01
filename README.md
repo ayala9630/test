@@ -1,6 +1,6 @@
 # test
 
-new text!!!!!g
+new text!!!!!
 new line...
 
 new line from local machine
